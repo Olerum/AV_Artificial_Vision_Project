@@ -1,8 +1,6 @@
 # Project Name
 
-## Description
-
-This is folder for the Artificial Vision AI class at UPV
+This is folder for the Artificial Vision AI class at UPV.
 
 ## To import the repo
 
@@ -21,20 +19,25 @@ This is folder for the Artificial Vision AI class at UPV
 ## Contributing
 
 1. Make a branch
-```git checkout -b my-name-of-a-branch```
+```
+git checkout -b my-name-of-a-branch
+```
 
 2. Do changes and code
 
 3. Upload the changes
-```git add . ```
-```git commit -m "Added new feature XYZ" ```
+```
+git add . 
+git commit -m "Added new feature XYZ" 
+```
 
 4. Get the latest changes from others or on the main
-```git checkout main ```
-``` git pull origin main  # Update local main branch ```
+```git checkout main 
+git pull origin main  # Update local main branch 
 
-``` git checkout my-name-of-a-branch```
-```git merge main  # Merge the latest main changes into feature-branch```
+git checkout my-name-of-a-branch
+git merge main  # Merge the latest main changes into feature-branch
+```
 
 4. 💡 If there are conflicts, Git will ask you to resolve them manually. 
 
