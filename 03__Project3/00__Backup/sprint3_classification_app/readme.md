@@ -1,0 +1,1 @@
+run "main.py" to run the whole program
